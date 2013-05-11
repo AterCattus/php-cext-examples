@@ -1,7 +1,7 @@
 php-cext-examples
 =================
 
-Examples of C extentions for PHP:
+Examples of C extensions for PHP:
 
 * error_clear_last() function for clearing error_get_last().
 
