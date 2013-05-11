@@ -1,0 +1,7 @@
+#ifndef ERRORCLEARLAST_H
+#define ERRORCLEARLAST_H
+
+#define ERRORCLEARLAST_EXT_NAME     "error_clear_last"
+#define ERRORCLEARLAST_EXT_VERSION  "0.0.1"
+
+#endif // ERRORCLEARLAST_H
